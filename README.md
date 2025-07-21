@@ -99,7 +99,7 @@ plus 5 digits appended to round off the remaining bits while storing in the file
 ## Executing program
 
 ```
-g++ huffman-compression.cpp
+g++ file-compression.cpp
 [a.exe | ./a.out] -c|-dc [filename_to_be_compressed] 
 (The order must be same: first: option to compress/decompress and then second: filename)
 ```
